@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshata Agine</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=A+passionate+DataScience+Engineer+;I+like+to+explore+new+technology+and+things." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=A+Data+Analyst+;I+like+to+talk+about+data." alt="Typing SVG" /></a>
 <img src="https://previews.123rf.com/images/alexdndz/alexdndz2207/alexdndz220700309/189012566-data-analysis-concept-with-people-scene-in-flat-cartoon-design-woman-working-with-statistics-and.jpg" align="right" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aagine&label=Profile%20views&color=0e75b6&style=flat" alt="Aagine" /> </p>
 
